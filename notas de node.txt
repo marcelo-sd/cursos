@@ -1,0 +1,4 @@
+notas de node 
+npm init -y para iniciar packjson 
+npm i cowsay es una dependecia
+el node modules son los modulos que nosotros gestionamos de pack.json

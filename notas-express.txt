@@ -1,0 +1,12 @@
+notas express
+
+node index.js  para lanzar rl programa
+npm init -y  para ver nuestros packjson
+npm i express  para instalar express
+ npm i nodemon -D  este modulo es pra que no estomes reiniciando el servidor a cada momento
+
+"start"="nodemon app/server.js" para configurar
+
+ npx nodemon index.js  ejecuatmos el index con nodemon
+
+npx se usa cuando el modulo no esta instalado para todo la carpeta
